@@ -1,11 +1,9 @@
 # uber_newyork_dataanalysis
 
-## About Dataset
-**Uber Project/Archive**
-This directory contains information on over 4.5 million Uber pickups in New York City from April to September 2014, as well as 14.3 million more Uber pickups from January to June 2015. Trip-level data for 10 other for-hire vehicle (FHV) companies, as well as aggregated data for 329 FHV companies, are also included.
+## About Dataset and Source
+The data is from the NYC Taxi & Limousine Commission (TLC) licensed under the Freedom of Information Law request on July 20, 2015 obtained by FiveThirtyEight(https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city). 
 
-## Source
-The data is from the NYC Taxi & Limousine Commission (TLC) licensed under the Freedom of Information Law request on July 20, 2015 by FiveThirtyEight. 
+It contains information on over 4.5 million Uber pickups in New York City from April to September 2014, as well as 14.3 million more Uber pickups from January to June 2015. Trip-level data for 10 other for-hire vehicle (FHV) companies, as well as aggregated data for 329 FHV companies, are also included.
 
 ## The Data
 The dataset is divided into four groups of files:
